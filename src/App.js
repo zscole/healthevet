@@ -91,7 +91,7 @@ class App extends Component {
         <div className="App" responsive="true">
           <Grid fluid>
           <header className="App-header">
-            <h1>My HealtheVet</h1>
+            <h1>eVet Medical Records</h1>
           </header>
           <hr />
 
