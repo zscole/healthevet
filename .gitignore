@@ -38,6 +38,7 @@ _ReSharper*/
 [Bb]uild/
 package-lock.json
 yarn.lock
+/node_modules
 
 #Subversion files
 .svn
