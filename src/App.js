@@ -95,7 +95,7 @@ class App extends Component {
           </header>
           <hr />
 
-          <h3> Upload Record to VetNet</h3>
+          <h3>Upload eVet Record</h3>
           <Form onSubmit={this.onSubmit}>
             <input 
               type = "file"
@@ -113,8 +113,8 @@ class App extends Component {
               <Table bordered>
                 <thead>
                   <tr>
-                    <th>Tx Receipt Category</th>
-                    <th>Values</th>
+                    <th>Transaction Item</th>
+                    <th>Data</th>
                   </tr>
                 </thead>
                
